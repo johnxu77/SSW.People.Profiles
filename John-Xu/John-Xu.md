@@ -12,7 +12,7 @@ John is a software developer based in SSW Hangzhou. John has extensive experienc
 He strives to design robust, applicable and maintainable software, following industry best practices, and he dedicates himself to developing his skills to provide the most professional and resourceful services.
 John has worked in several IT companies around the world and has rich experience implementing micro front-ends, PowerBI, and IoT projects.
 
-> ## 🚀 **Technologies John specialises in** 
+> # 🚀 **Technologies John specialises in** 
 ### Programming Languages
 - JavaScript/TypeScript
 - Java
@@ -21,7 +21,7 @@ John has worked in several IT companies around the world and has rich experience
 ### Backend
 - NestJS
 - Spring
-- #NET
+- .NET
 
 ### Frontend
 - React
